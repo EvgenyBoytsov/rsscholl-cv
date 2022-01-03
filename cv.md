@@ -10,7 +10,9 @@
 Not married. There is a military ID (unsuitable for military service in peacetime). I prefer a healthy lifestyle, traveling, cycling, running. I spend part of my free time on self-education. I am interested in technology, innovation. I enjoy working in a result-oriented team.
 ***
 ## Skills
-HTML5, CSS3, Github, Excel, Word, Outlook, JIRA, Redmine
+HTML, CSS, Github, Excel, Word, Outlook, JIRA, Redmine
+
+I have experience manual QA
 ***
 ## Code example from Codewars:
 ### Solution:
@@ -21,10 +23,10 @@ function multiply(a, b){
 
 ***
 ## Experience
-My first work experience was creating a CV [Link](https://github.com/EvgenyBoytsov/rssscholl-cv)
+CV [Link](https://github.com/EvgenyBoytsov/rssscholl-cv)
 ***
 ## Courses
-RS School. Курс JS/Frontend-разработка. Подготовительный этапe [rsschool](https://github.com/rolling-scopes-school/tasks/tree/master/stage0) 
+RS School. Курс JS/Frontend-разработка. Подготовительный этап [rsschool](https://github.com/rolling-scopes-school/tasks/tree/master/stage0) 
 ***
 ##Languages
 English - Beginner
